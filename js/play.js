@@ -630,7 +630,7 @@ const share = () => {
 	navigator.share({
 		title: '在线玩《' + gameInfo.n + '》',
 		url: urldata,
-		text: '推荐使用电脑，运行更加流畅！在线免费畅玩或下载VB游戏，包括魂斗罗，超级玛丽，坦克大战等VB经典游戏，让我们一同找回童年的快乐！玩VB游戏，就认准VB游戏盒！'
+		text: '推荐使用电脑，运行更加流畅！在线免费畅玩或下载Virtual Boy游戏，包括3D俄罗斯方块，马里奥，高尔夫等经典Virtual Boy游戏，让我们一同找回童年的快乐！玩Virtual Boy游戏，就认准VB游戏盒！'
 	})
 }
 // 下载rom按钮
